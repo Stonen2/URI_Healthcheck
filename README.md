@@ -8,10 +8,10 @@ Source code is attrocious, but I wanted to get something deployed as fast a huma
 
 If you are curious where improvements could be made here you go. 
 
--Properties files with encryption on passwords instead of embedding hardcoded values for passwords on email authentication (ConfigParser) {Java is better}
--Correlating URLs with necessary contact information (arguably class obects, but python classes leave a lot to be desired on performance and readbility) 
--Requirements.txt file generation 
--Web UI To visually show error messages/response codes. I do not include or differentiate between 404, 403, 301, etc. script only cares for 200 status code 
+* Properties files with encryption on passwords instead of embedding hardcoded values for passwords on email authentication (ConfigParser) {Java is better}
+* Correlating URLs with necessary contact information (arguably class obects, but python classes leave a lot to be desired on performance and readbility) 
+* Requirements.txt file generation 
+* Web UI To visually show error messages/response codes. I do not include or differentiate between 404, 403, 301, etc. script only cares for 200 status code 
 
 
 " I'm watching you, Wazowski. Always watching. Always. " -Roz Monsters Inc. 
